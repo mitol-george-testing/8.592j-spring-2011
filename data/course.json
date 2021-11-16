@@ -1,0 +1,40 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Biostatistics"
+    ],
+    [
+      "Science",
+      "Physics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ac5ab5d2-7a62-6478-6a03-35ff5cfe3174",
+      "5ca75388-b83e-6c39-f97d-8f49f7f012b4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Statistical Physics in Biology",
+  "course_description": "Statistical Physics in Biology is a survey of problems at the interface of statistical physics and modern biology. Topics include: bioinformatic methods for extracting information content of DNA; gene finding, sequence comparison, and phylogenetic trees; physical interactions responsible for structure of biopolymers; DNA double helix, secondary structure of RNA, and elements of protein folding; considerations of force, motion, and packaging; protein motors, membranes. We also look at collective behavior of biological elements, cellular networks, neural networks, and evolution.\n",
+  "department_numbers": [
+    "8",
+    "HST"
+  ],
+  "extra_course_numbers": "HST.452J",
+  "primary_course_number": "8.592J",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Projects"
+  ],
+  "title": "Course Metadata"
+}
